@@ -2,6 +2,8 @@
 
 [git简介](https://www.liaoxuefeng.com/wiki/896043488029600/900937935629664)
 
+[教程](https://www.jianshu.com/p/13d356e76659)
+
 ## git简介
 
 ### git初始配置
